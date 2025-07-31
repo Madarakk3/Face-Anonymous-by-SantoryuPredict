@@ -28,8 +28,7 @@ _Примітка: якщо ви використовуєте Jupyter Notebook, 
 
 ## 🧪 Приклад
 
-![Example Screenshot](example 01.08.52.png)
-![Example Screenshot](example 1 01.08.52.png)
+![Example Screenshot](example.png)
 
 ## 📂 Дані
 
